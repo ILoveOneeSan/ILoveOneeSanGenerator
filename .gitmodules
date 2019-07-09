@@ -1,0 +1,9 @@
+[submodule "themes/even"]
+	path = themes/even
+	url = git@iloveoneesan.github.com:ILoveOneeSan/hugo-theme-even.git
+[submodule "themes/evenls"]
+	path = themes/evenls
+	url = git@iloveoneesan.github.com:ILoveOneeSan/hugo-theme-even.git
+[submodule "public"]
+	path = public
+	url = git@iloveoneesan.github.com:ILoveOneeSan/ILoveOneeSan.github.io.git

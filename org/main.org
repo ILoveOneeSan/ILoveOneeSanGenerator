@@ -1,0 +1,29 @@
+#+TITLE: main
+#+AUTHOR: "ILoveOneeSan"
+#+OPTIONS: num:nil toc:nil \n:nil
+#+hugo_base_dir: ../
+#+EXPORT_HUGO_SECTION: post
+#+hugo_auto_set_lastmod: %Y-%m-%d
+* Content
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: anime
+  :EXPORT_HUGO_SECTION: post
+  :EXPORT_HUGO_MENU: :menu "anime"
+  :END:
+  I had enough of org export
+* Anime
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: anime
+  :EXPORT_HUGO_SECTION: post
+  :EXPORT_HUGO_MENU: :menu "anime"
+  :END:
+  - Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka
+  - list of animes
+* Anime2
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: anime2
+  :EXPORT_HUGO_SECTION: post
+  :EXPORT_HUGO_MENU: :menu "anime"
+  :END:
+  - list of animes
+  - list of animes
